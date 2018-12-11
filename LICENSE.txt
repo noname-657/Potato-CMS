@@ -1,5 +1,5 @@
-# You Must Eat Sandwich Public License
-(C) 2018 Hámori Ádám
+                    You Must Eat Sandwich Public License
+                        (C) 2018 Hámori Ádám
 
 Anyone is permitted to copy and distribute verbatim
 instances of this license document, and changing
