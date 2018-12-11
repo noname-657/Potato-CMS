@@ -1,7 +1,7 @@
                     You Must Eat Sandwich Public License
                         (C) 2018 Hámori Ádám
 
-Anyone is permitted to copy and distribute verbatim
+Anyone is permitted to copy and distribute the unchanging
 instances of this license document, and changing
 is also permitted, if you eat a sandwich before
 changing the license document.
