@@ -1,0 +1,14 @@
+You Must Eat Sandwich Public License
+(C) 2018 Hámori Ádám
+
+Anyone is permitted to copy and distribute verbatim
+instances of this license document, and changing
+is also permitted, if you eat a sandwich before
+changing the license document.
+
+1) TERMS AND CONDITIONS OF DISTRIBUTION, MODIFICATION AND ANY OTHER ACTIVITY (WITH THE SOFTWARE):
+    A) Do what you want
+    B) Write the name of the author (THE SOFTWARE AUTHOR) to your new program's README (or other place)
+    C) Change the name
+2) WARRANTY
+THERE IS ABSOLUTELY NO WARRANTY, INCLUDING THE WARRANTY THAT YOUR SANDWICH IS FINE.
